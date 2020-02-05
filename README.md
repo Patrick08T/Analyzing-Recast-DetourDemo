@@ -1,1 +1,1 @@
-打开build目录下的VS工程文件即可
+打开RecastDemo/Build/vs2015目录下的VS工程文件即可
